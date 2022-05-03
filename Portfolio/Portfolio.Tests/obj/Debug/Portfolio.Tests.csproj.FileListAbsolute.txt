@@ -1,0 +1,2 @@
+C:\Users\User-1\Documents\Visual Studio 2022\Projects\Portfolio\Portfolio\Portfolio.Tests\obj\Debug\Portfolio.Tests.csproj.AssemblyReference.cache
+C:\Users\User-1\Documents\Visual Studio 2022\Projects\Portfolio\Portfolio\Portfolio.Tests\obj\Debug\Portfolio.Tests.csproj.CoreCompileInputs.cache
